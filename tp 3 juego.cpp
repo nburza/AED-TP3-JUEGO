@@ -12,7 +12,7 @@ using namespace std;
 int main (){
 
 	srand(time(NULL));
-	cout << "Nombre del juego" << endl;
+	cout << "Trivial CMD" << endl;
 	cout << "Pulse cualquier tecla para empezar a jugar" << endl;
 	cout << "Pulse 0 para salir del juego" << endl;
 	char a;
