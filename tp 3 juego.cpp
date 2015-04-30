@@ -1,3 +1,8 @@
+/*NICOLAS BURZA
+30042015
+JUEGO
+*/
+
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
@@ -65,7 +70,7 @@ int main (){
 							}
 							break;
 						case 3:
-							cout<<"Quienes fueron los sans-culottes de la Revolución Francesa?"<<endl;
+							cout<<"Quienes fueron los sans-culottes de la RevoluciÃ³n Francesa?"<<endl;
 							cout<<"1.La burguesia durante la Revolucion"<<endl;
 							cout<<"2.La principal masa social revolucionaria"<<endl;
 							cout<<"3.El nombre despectivo de los burgueses"<<endl;
@@ -97,7 +102,7 @@ int main (){
 							}
 							break;
 						case 5:
-							cout<<"Quién pronunció la frase: 'Bebamos de la copa de la destrucción'?"<<endl;
+							cout<<"QuiÃ©n pronunciÃ³ la frase: 'Bebamos de la copa de la destrucciÃ³n'?"<<endl;
 							cout<<"1.Margaret Tatcher"<<endl;
 							cout<<"2.Mussolini"<<endl;
 							cout<<"3.Gengis Kan"<<endl;
@@ -129,7 +134,7 @@ int main (){
 							}
 							break;
 						case 7:
-							cout<<"El Renacimiento marcó el inicio de la Edad..."<<endl;
+							cout<<"El Renacimiento marcÃ³ el inicio de la Edad..."<<endl;
 							cout<<"1.Moderna"<<endl;
 							cout<<"2.Antiguedad clasica"<<endl;
 							cout<<"3.Contemporanea"<<endl;
@@ -230,7 +235,7 @@ int main (){
 							break;
 						case 3:
 							cout<<"En que pais se invento el voleibol?"<<endl;
-							cout<<"1.Gran Bretaña"<<endl;
+							cout<<"1.Gran BretaÃ±a"<<endl;
 							cout<<"2.Francia"<<endl;
 							cout<<"3.Rusia"<<endl;
 							cout<<"4.Estados Unidos"<<endl;
@@ -577,7 +582,7 @@ int main (){
 							cout<<"1.Alejandro Sanchez Gutierrez"<<endl;
 							cout<<"2.Alexander Santiago Seguiz"<<endl;
 							cout<<"3.Alejandro Alberto Sanzon"<<endl;
-							cout<<"4.Alejandro Sánchez Pizarro"<<endl;
+							cout<<"4.Alejandro SÃ¡nchez Pizarro"<<endl;
 							int aj;
 							cin>>aj;
 							if(aj==4){
@@ -706,10 +711,10 @@ int main (){
 							break;
 						case 2:
 							cout<<"Cual es la funcion principal del intestino grueso?"<<endl;
-							cout<<"1.La absorción de nutrientes"<<endl;
+							cout<<"1.La absorciÃ³n de nutrientes"<<endl;
 							cout<<"2.La digestion mecanica de los alimentos"<<endl;
 							cout<<"3.La absorcion de agua"<<endl;
-							cout<<"4.La digestion química de alimentos"<<endl;
+							cout<<"4.La digestion quÃ­mica de alimentos"<<endl;
 							int ar;
 							cin>>ar;
 							if(ar==3){
