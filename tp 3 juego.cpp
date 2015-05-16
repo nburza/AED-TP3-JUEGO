@@ -13,8 +13,7 @@ int main (){
 	cout << "Pulse 0 para salir del juego" << endl;
 	char a;
 	cin >> a;
-	int puntaje;
-	puntaje==0;
+	int puntaje=0;
 	if (a==0){
 		cout << "Su puntaje es: " << puntaje << endl;
 		return 0;
@@ -39,7 +38,7 @@ int main (){
 				cin>>c;
 				if(c==4){
 					cout<<"La respuesta es correcta"<<endl;
-					puntaje+10;
+					puntaje+=10;
 				}
 				else{
 					cout<<"La respuesta es incorrecta"<<endl;
@@ -53,7 +52,7 @@ int main (){
 				cin>>d;
 				if(d==3){
 					cout<<"La respuesta es correcta"<<endl;
-					puntaje+10;
+					puntaje+=10;
 				}
 				else{
 					cout<<"La respuesta es incorrecta"<<endl;
@@ -67,7 +66,7 @@ int main (){
 				cin>>e;
 				if(e==2){
 					cout<<"La respuesta es correcta"<<endl;
-					puntaje+10;
+					puntaje+=10;
 				}
 				else{
 					cout<<"La respuesta es incorrecta"<<endl;
@@ -81,7 +80,7 @@ int main (){
 				cin>>f;
 				if(f==1){
 					cout<<"La respuesta es correcta"<<endl;
-					puntaje+10;
+					puntaje+=10;
 				}
 				else{
 					cout<<"La respuesta es incorrecta"<<endl;
@@ -95,7 +94,7 @@ int main (){
 				cin>>g;
 				if(g==3){
 					cout<<"La respuesta es correcta"<<endl;
-					puntaje+10;
+					puntaje+=10;
 				}
 				else{
 					cout<<"La respuesta es incorrecta"<<endl;
@@ -111,7 +110,7 @@ int main (){
 				cin>>m;
 				if(m==1){
 					cout<<"La respuesta es correcta"<<endl;
-					puntaje+10;
+					puntaje+=10;
 				}
 				else{
 					cout<<"La respuesta es incorrecta"<<endl;
@@ -125,7 +124,7 @@ int main (){
 				cin>>n;
 				if(n==3){
 					cout<<"La respuesta es correcta"<<endl;
-					puntaje+10;
+					puntaje+=10;
 				}
 				else{
 					cout<<"La respuesta es incorrecta"<<endl;
@@ -139,7 +138,7 @@ int main (){
 				cin>>o;
 				if(o==4){
 					cout<<"La respuesta es correcta"<<endl;
-					puntaje+10;
+					puntaje+=10;
 				}
 				else{
 					cout<<"La respuesta es incorrecta"<<endl;
@@ -153,7 +152,7 @@ int main (){
 				cin>>p;
 				if(p==1){
 					cout<<"La respuesta es correcta"<<endl;
-					puntaje+10;
+					puntaje+=10;
 				}
 				else{
 					cout<<"La respuesta es incorrecta"<<endl;
@@ -167,7 +166,7 @@ int main (){
 				cin>>q;
 				if(q==1){
 					cout<<"La respuesta es correcta"<<endl;
-					puntaje+10;
+					puntaje+=10;
 				}
 				else{
 					cout<<"La respuesta es incorrecta"<<endl;
@@ -183,7 +182,7 @@ int main (){
 				cin>>w;
 				if(w==3){
 					cout<<"La respuesta es correcta"<<endl;
-					puntaje+10;
+					puntaje+=10;
 				}
 				else{
 					cout<<"La respuesta es incorrecta"<<endl;
@@ -197,7 +196,7 @@ int main (){
 				cin>>x;
 				if(x==3){
 					cout<<"La respuesta es correcta"<<endl;
-					puntaje+10;
+					puntaje+=10;
 				}
 				else{
 					cout<<"La respuesta es incorrecta"<<endl;
@@ -211,7 +210,7 @@ int main (){
 				cin>>y;
 				if(y==4){
 					cout<<"La respuesta es correcta"<<endl;
-					puntaje+10;
+					puntaje+=10;
 				}
 				else{
 					cout<<"La respuesta es incorrecta"<<endl;
@@ -225,7 +224,7 @@ int main (){
 				cin>>z;
 				if(z==2){
 					cout<<"La respuesta es correcta"<<endl;
-					puntaje+10;
+					puntaje+=10;
 				}
 				else{
 					cout<<"La respuesta es incorrecta"<<endl;
@@ -239,7 +238,7 @@ int main (){
 				cin>>aa;
 				if(aa==1){
 					cout<<"La respuesta es correcta"<<endl;
-					puntaje+10;
+					puntaje+=10;
 				}
 				else{
 					cout<<"La respuesta es incorrecta"<<endl;
